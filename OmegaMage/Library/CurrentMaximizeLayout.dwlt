@@ -25,7 +25,7 @@ MonoBehaviour:
   m_MinSize: {x: 917, y: 421}
   m_MaxSize: {x: 22012, y: 10021}
   vertical: 0
-  controlID: 124
+  controlID: 2574
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -125,7 +125,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 421}
   m_MaxSize: {x: 4002, y: 8021}
   vertical: 1
-  controlID: 103
+  controlID: 2575
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -212,9 +212,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
   m_Size:
-    m_Target: 10
+    m_Target: 10.45
     speed: 2
-    m_Value: 10
+    m_Value: 10.45
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -244,8 +244,8 @@ MonoBehaviour:
     y: 395
     width: 395
     height: 372
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 2}
   m_Panes:
   - {fileID: 2}
@@ -304,23 +304,23 @@ MonoBehaviour:
     height: 746
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 042c0000
-    m_LastClickedID: 11268
-    m_ExpandedIDs: a6fbffff00000000b22b0000
+    m_SelectedIDs: 1c5affff
+    m_LastClickedID: -42468
+    m_ExpandedIDs: 38ceffff9cfbffff00000000ac360000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Canvas
-      m_OriginalName: Canvas
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 11186
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 0
       m_ClientGUIView: {fileID: 7}
     m_SearchString: 
@@ -392,19 +392,18 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/MainMenuAssets/Sprites
+    - Assets/MainMenuAssets/BGM
   m_ViewMode: 0
   m_StartGridSize: 64
-  m_LastFolders:
-  - Assets
+  m_LastFolders: []
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Ethan\Documents\Unity Projects\OmegaMage\OmegaMage-master-27ba2c58d3155e6e2adb5b6126607c0beb095d32
+  m_LastProjectPath: C:\Users\Ethan\Documents\GitHub\OmegaMage\OmegaMage
   m_IsLocked: 1
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 2c2d0000
     m_LastClickedID: 11564
-    m_ExpandedIDs: 00000000882700002429000070290000b6290000d4290000222a0000dc2a0000de2a0000f82a0000402b0000502b0000
+    m_ExpandedIDs: 000000008a2700003a2800002a29000076290000bc290000da290000282a0000de2a0000e02a0000fa2a0000422b0000522b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -430,9 +429,9 @@ MonoBehaviour:
       m_ResourceFile: 
   m_AssetTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 042c0000
+    m_SelectedIDs: 1c5affff
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000882700002429000070290000b6290000d4290000222a0000dc2a0000de2a0000f82a0000402b0000502b0000
+    m_ExpandedIDs: 000000008a2700003a2800002a29000076290000bc290000da290000282a0000de2a0000e02a0000fa2a0000422b0000522b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -457,8 +456,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 042c0000
-    m_LastClickedInstanceID: 11268
+    m_SelectedInstanceIDs: 1c5affff
+    m_LastClickedInstanceID: -42468
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 
     m_RenameOverlay:

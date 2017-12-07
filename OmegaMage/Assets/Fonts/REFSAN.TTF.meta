@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d57bda726eb7f704688450517e2a8864
+timeCreated: 1492715012
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: MS Reference Sans Serif
+  fontNames:
+  - MS Reference Sans Serif
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

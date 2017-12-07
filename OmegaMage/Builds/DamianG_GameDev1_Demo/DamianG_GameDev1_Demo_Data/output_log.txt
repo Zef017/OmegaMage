@@ -1,0 +1,36 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     1136 MB
+    Driver:   20.19.15.4531
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Damian\Documents\Unity\Some Unity Project\Builds\DamianG_GameDev1_Demo_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Damian\Documents\Unity\Some Unity Project\Builds\DamianG_GameDev1_Demo_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Damian\Documents\Unity\Some Unity Project\Builds\DamianG_GameDev1_Demo_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Damian\Documents\Unity\Some Unity Project\Builds\DamianG_GameDev1_Demo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Damian\Documents\Unity\Some Unity Project\Builds\DamianG_GameDev1_Demo_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Damian\Documents\Unity\Some Unity Project\Builds\DamianG_GameDev1_Demo_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Damian\Documents\Unity\Some Unity Project\Builds\DamianG_GameDev1_Demo_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Damian\Documents\Unity\Some Unity Project\Builds\DamianG_GameDev1_Demo_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Damian\Documents\Unity\Some Unity Project\Builds\DamianG_GameDev1_Demo_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Damian\Documents\Unity\Some Unity Project\Builds\DamianG_GameDev1_Demo_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.323 seconds
+Platform assembly: C:\Users\Damian\Documents\Unity\Some Unity Project\Builds\DamianG_GameDev1_Demo_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Damian\Documents\Unity\Some Unity Project\Builds\DamianG_GameDev1_Demo_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.881678 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 818c -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.168773 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2182.
+Total: 2.538986 ms (FindLiveObjects: 0.475979 ms CreateObjectMapping: 0.212544 ms MarkObjects: 1.809834 ms  DeleteObjects: 0.039344 ms)
+
